@@ -106,7 +106,7 @@ We conduct extensive experiments on three QA datasets across different domains, 
 
 
 
-![Experimental Results](image\experimental_results.png)
+![Experimental Results](image/experimental_results.png)
 
 
 
