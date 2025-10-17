@@ -2,10 +2,10 @@
     MoM: Mixtures of Scenario-Aware Document Memories for Retrieval-Augmented Generation Systems
 </h1>
 <p align="center">
-    <a href="">
+    <a href="https://arxiv.org/abs/2510.14252">
         <img alt="arXiv Paper" src="https://img.shields.io/badge/arXiv-Paper-b31b1b.svg?logo=arxiv">
     </a>
-    <a href="">
+    <a href="https://huggingface.co/papers/2510.14252">
         <img src="https://img.shields.io/badge/Huggingface-Paper-yellow?style=flat-square&logo=huggingface">
     </a>
     <a href="https://opensource.org/license/apache-2-0">
